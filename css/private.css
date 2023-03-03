@@ -46,14 +46,17 @@
 /* BODY */
 .body-container {
   overflow: hidden;
+  background: url("./../image/7.jpg") fixed;
 }
 
 .image-slider-container {
   width: 9600px;
+  height: 100vh;
   font-size: 0;
   filter: brightness(50%);
 
   position: relative;
+  overflow: hidden;
 }
 
 .body-container .div-frame {
@@ -115,24 +118,204 @@
   width: 100%;
   height: 100px;
   background-color: white;
+  box-sizing: border-box;
+  border-bottom: 8px #E3007C solid;
+  border-top: 8px #E3007C solid;
   text-align: center;
-  line-height: 100px;
+  line-height: 84px;
   font-size: 30px;
-
-  position: absolute;
-  bottom: -100px;
 }
 
 .body {
   width: 1140px;
-  height: 2000px;
 
   margin: auto;
-  background-color: #0c63e4;
+}
+
+/* ABOUT */
+.body .about-me {
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+
+  background-color: white;
+}
+
+.head-image {
+  width: 200px;
+  height: 200px;
+  margin: 100px 0;
+  box-sizing: border-box;
+  border: 10px solid black;
+  border-radius: 50%;
+  filter: brightness(70%);
+
+  transition: all 0.3s ease;
+}
+
+.head-image:hover {
+  width: 300px;
+  height: 300px;
+  margin: 50px 0;
+  border-radius: 0;
+  border: 0px solid #E3007C;
+  filter: brightness(1);
+  transition: all 0.5s ease;
+}
+
+.about-me-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.about-me-label {
+  height: 40px;
+  background-color: #E3007C;
+  margin-bottom: -50px;
+
+  color: white;
+  font-size: 30px;
+  font-weight: bolder;
+  text-align: center;
+  line-height: 40px;
+}
+
+.about-me-title {
+  text-align: left;
+  font-size: 40px;
+  font-weight: bolder;
+  text-underline: #E3007C;
+}
+
+.about-me-btn {
+  width: 120px;
+  height: 50px;
+
+  font-size: 20px;
+  font-weight: bolder;
+  color: black;
+  text-align: center;
+  line-height: 40px;
+
+  border: 5px solid black;
+  box-sizing: border-box;
+}
+
+/* SKILLS */
+.skills-me {
+  height: 1500px;
 }
 
 /* FOOTER */
 .footer-container {
   height: 200px;
+  border-top: 8px solid black;
   box-sizing: border-box;
+  background-color: rgb(37, 37, 37);
+}
+
+.footer-container .body {
+  height: 190px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer-container .app-connect {
+  width: 200px;
+  height: 100%;
+}
+
+.app-connect-title {
+  height: 50px;
+  width: 200px;
+  margin: 20px 0 10px 0;
+
+  background-color: black;
+
+  font-size: 30px;
+  font-weight: bolder;
+  line-height: 50px;
+  text-align: center;
+
+  color: white;
+}
+
+.app-connect-box {
+  display: flex;
+  justify-content: space-between;
+}
+
+.bilibili-icon {
+  width: 32px;
+  height: 32px;
+}
+
+.bilibili-icon-path {
+  fill: white;
+}
+
+.bilibili-icon:hover .bilibili-icon-path {
+  fill: #E3007C;
+  transition: all 0.3s ease;
+}
+
+.kuaishou-icon {
+  width: 32px;
+  height: 32px;
+}
+
+.kuaishou-icon-path {
+  fill: white;
+}
+
+.kuaishou-icon:hover .kuaishou-icon-path {
+  fill: #E3007C;
+  transition: all 0.3s ease;
+}
+
+.douyin-icon {
+  width: 32px;
+  height: 32px;
+}
+
+.douyin-icon-path {
+  fill: white;
+}
+
+.douyin-icon:hover .douyin-icon-path {
+  fill: #E3007C;
+  transition: all 0.3s ease;
+}
+
+.discord-icon {
+  width: 32px;
+  height: 32px;
+}
+
+.discord-icon-path {
+  fill: white;
+}
+
+.discord-icon:hover .discord-icon-path {
+  fill: #E3007C;
+  transition: all 0.3s ease;
+}
+
+.footer-container .email-connect {
+  width: 200px;
+  height: 100%;
+  background-color: #E3007C;
+
+  display: flex;
+  flex-direction: column;
+}
+
+.footer-container .online-time {
+  width: 200px;
+  height: 100%;
+  background-color: #E3007C;
+
+  display: flex;
+  flex-direction: column;
 }

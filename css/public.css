@@ -4,7 +4,7 @@
 }
 
 body {
-  -moz-user-select: none
+  -moz-user-select: none;
 }
 
 ::-webkit-scrollbar {
@@ -28,9 +28,19 @@ h1, h2, h3, h4, h5, h6 {
   transition: all 0.3s ease;
 }
 
+.hover-in-black:hover {
+  color: black;
+  transition: all 0.3s ease;
+}
+
 .hover-in-white:hover {
   color: white;
   transition: all 0.3s ease;
+}
+
+.hover-background-black:hover {
+  background-color: black;
+  transition: all 0.6s ease;
 }
 
 .hover-background-red:hover {
