@@ -2,3 +2,42 @@
   margin: 0;
   padding: 0;
 }
+
+body {
+  -moz-user-select: none
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+span, div {
+  cursor: default;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  cursor: default;
+}
+
+.hover-out {
+  transition: all 0.6s ease;
+}
+
+.hover-in-red:hover {
+  color: #E3007C;
+  transition: all 0.3s ease;
+}
+
+.hover-in-white:hover {
+  color: white;
+  transition: all 0.3s ease;
+}
+
+.hover-background-red:hover {
+  background-color: #E3007C;
+  transition: all 0.6s ease;
+}
+
+.transition-move {
+  transition: all 0.5s linear;
+}
