@@ -4,67 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a87c7cbe-121f-48a4-8463-1d8400d8e157" name="Changes" comment="awa">
-      <change afterPath="$PROJECT_DIR$/assets/Freedom-sb5yBCOG.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Goldenglow-DvrEnPHa.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/MahiroOyama-62hHV4Uf.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Security-BDhhmB28.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/York-icon-C3gmAeeu.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Montserrat/Montserrat-Italic-VariableFont_wght.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Montserrat/Montserrat-VariableFont_wght.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Montserrat/OFL.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Montserrat/README.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Montserrat/static/Montserrat-Black.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Montserrat/static/Montserrat-BlackItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Montserrat/static/Montserrat-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Montserrat/static/Montserrat-BoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Montserrat/static/Montserrat-ExtraBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Montserrat/static/Montserrat-ExtraBoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Montserrat/static/Montserrat-ExtraLight.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Montserrat/static/Montserrat-ExtraLightItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Montserrat/static/Montserrat-Italic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Montserrat/static/Montserrat-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Montserrat/static/Montserrat-LightItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Montserrat/static/Montserrat-Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Montserrat/static/Montserrat-MediumItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Montserrat/static/Montserrat-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Montserrat/static/Montserrat-SemiBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Montserrat/static/Montserrat-SemiBoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Montserrat/static/Montserrat-Thin.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Montserrat/static/Montserrat-ThinItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Montserrat_Alternates/MontserratAlternates-Black.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Montserrat_Alternates/MontserratAlternates-BlackItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Montserrat_Alternates/MontserratAlternates-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Montserrat_Alternates/MontserratAlternates-BoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Montserrat_Alternates/MontserratAlternates-ExtraBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Montserrat_Alternates/MontserratAlternates-ExtraBoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Montserrat_Alternates/MontserratAlternates-ExtraLight.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Montserrat_Alternates/MontserratAlternates-ExtraLightItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Montserrat_Alternates/MontserratAlternates-Italic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Montserrat_Alternates/MontserratAlternates-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Montserrat_Alternates/MontserratAlternates-LightItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Montserrat_Alternates/MontserratAlternates-Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Montserrat_Alternates/MontserratAlternates-MediumItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Montserrat_Alternates/MontserratAlternates-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Montserrat_Alternates/MontserratAlternates-SemiBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Montserrat_Alternates/MontserratAlternates-SemiBoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Montserrat_Alternates/MontserratAlternates-Thin.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Montserrat_Alternates/MontserratAlternates-ThinItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/font/Montserrat_Alternates/OFL.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icon/Celestia-icon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/icon/York-icon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/image/Freedom.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/image/Furina.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/image/Goldenglow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/image/MahiroOyama.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/image/Security.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/index-C61uNqNh.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index--BXVv0V0.css" afterDir="false" />
+    <list default="true" id="a87c7cbe-121f-48a4-8463-1d8400d8e157" name="Changes" comment="✨ SET UP">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/index-CusWAS5C.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/index-XC8xBRSR.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vite.svg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,20 +37,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/yorky/Desktop/Website page",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/yorky/Desktop/Website page&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\yorky\Desktop\Website page" />
@@ -135,7 +76,8 @@
       <updated>1727790184166</updated>
       <workItem from="1727790185631" duration="1380000" />
       <workItem from="1731098025246" duration="157000" />
-      <workItem from="1733036180413" duration="2913000" />
+      <workItem from="1733036180413" duration="4593000" />
+      <workItem from="1733045977505" duration="6000" />
     </task>
     <task id="LOCAL-00001" summary="awa">
       <option name="closed" value="true" />
@@ -145,7 +87,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727790201897</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="✨ SET UP">
+      <option name="closed" value="true" />
+      <created>1733040193103</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1733040193103</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,6 +103,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="awa" />
-    <option name="LAST_COMMIT_MESSAGE" value="awa" />
+    <MESSAGE value="✨ SET UP" />
+    <option name="LAST_COMMIT_MESSAGE" value="✨ SET UP" />
   </component>
 </project>
